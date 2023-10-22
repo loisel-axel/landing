@@ -1,0 +1,136 @@
+body {
+	background-color: aliceblue;
+	font-size: 20px;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	color: rgba(30, 30, 30, 1.0);
+}
+.Leon {
+	border-radius: 50%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+.text {
+	color: BLACK;
+	margin-left: 3%;
+	font-size: 17px;
+}
+.nous {
+	color: #1a0696;
+	font-size: 17px;
+}
+.city {
+	font-size: 30px;
+	color: #1a0696;
+	margin-left: 6%;
+	margin-right: 5%;
+}
+.carte {
+	color: black;
+	font-size: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+a:hover {
+	color: black;
+}
+.bouton:hover {
+	color: #1a0696;
+}
+.titre {
+	color: #1a0696;
+}
+.titres {
+	color: black;
+}
+.description {
+	color: black;
+	font-size: 20px;
+	font-family: courier;
+	font-weight: 700 ;
+
+}
+.bouton1 {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #1a0696;
+	color: white;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.bouton2 {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #1a0696;
+	color: white;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.bouton3 {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #1a0696;
+	color: white;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.bouton4 {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #1a0696;
+	color: white;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.logo {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.villes {
+	background-color: lightgrey;
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+}
+.equipe {
+	background-color: lightgrey;
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+}
+.produit {
+	background-color: lightgrey;
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+}
+.banner {
+	background-image:url(images/banner.png);
+	background-size:cover ;
+	background-position: center;
+	height: 260px;
+}
+.bouton {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
